@@ -1,0 +1,18 @@
+.HTTPS_Direct_HTTPS_Direct{
+    width: 24em;
+    margin-top: 10em;
+    margin-left: 2em;
+    text-align: center;
+}
+.HTTPS_Direct_HTTPS_Direct h1{
+    font-size: 3em;
+}
+.HTTPS_Direct_HTTPS_Direct h2 a{
+    text-decoration: none;
+}
+.HTTPS_Direct_HTTPS_Direct .statuslist p .status, .enabled{
+    color: green;
+}
+.HTTPS_Direct_HTTPS_Direct .statuslist p .status, .disabled{
+    color: red;
+}
